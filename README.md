@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Analytical-Sage
-- 👀 I’m interested in Data, Dataanalysis, DataVisualization
-- 🌱 I’m currently learning to use Python programming 
+- 👀 I’m interested in Data, Data analysis, DataVisualization
+- 🌱 I’m currently pursuing Data science, Machine learning, Generative AI & Python programming from MIT
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me deepaeshu@gmail.com
 
