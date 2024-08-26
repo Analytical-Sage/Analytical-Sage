@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Analytical-Sage
 - 👀 I’m interested in Data, Dataanalysis, DataVisualization
-- 🌱 I’m currently learning to use Python programming in Excel
+- 🌱 I’m currently learning to use Python programming 
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me deepaeshu@gmail.com
 
